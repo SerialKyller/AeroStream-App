@@ -1,0 +1,11 @@
+{
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVEYvMmhla3htd1VCcWNzdU10QURnM3dpVG0vRVRrUVhGWWoyMHo0Z0UybUdhV3JObm9DRmcvSEoraXo1eE1RMTEycDgwU25KNFVHSk5JVzJJczJIYW9IKzNTZU1odmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5ODk3Nzg1CWZpbGU6QWVyb1N0cmVhbV8xLjEuMF94NjRfZW4tVVMubXNpLnppcAp3R1pOZks2ME1uSG1iUFQ2S0k0R0x1blZJd2EzazhaUENHMzZpNlN0VFdCNjF1SU14S0xzdWUvWFRva0l4ZTJNNXkxSjNZWFkrWmR2cCtUcVBYQW5Bdz09Cg==",
+                                             "url":  "https://github.com/SerialKyller/AeroStream-App/releases/download/v1.1.0/AeroStream_1.1.0_x64_en-US.msi.zip"
+                                         }
+                  },
+    "pub_date":  "2026-05-27T19:08:10Z",
+    "version":  "1.1.0",
+    "notes":  "Field Feedback: Redesigned Movie/Series sheets, global stability improvements, native PiP transitions, readable Xtream errors, transient HTTP retry, subtitles OFF by default, stable grids."
+}
